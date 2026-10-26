@@ -1,0 +1,6 @@
+{
+  "name": "GapFinder AI",
+  "description": "AI-powered diagnostic study app that finds your weak topics, generates grounded quizzes with citations, and builds prioritized revision plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
